@@ -25,4 +25,11 @@ class Debug
 			</div>';
 		}
 	}
+
+
+	public static function dd($arr, $title='')
+	{
+		self::dump($arr, $title);
+		die;
+	}
 }
