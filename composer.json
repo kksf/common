@@ -1,0 +1,12 @@
+{
+    "name": "pillax/common",
+    "description": "Test project, please ignore it",
+    "authors": [
+        {
+            "name": "Kiril Kapustin",
+            "email": "kiril.kapustin@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
