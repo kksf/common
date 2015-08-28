@@ -1,6 +1,7 @@
 {
     "name": "pillax/common",
-    "description": "Test project, please ignore it",
+    "description": "Ignore-me, test package",
+    "type": "library",
     "authors": [
         {
             "name": "Kiril Kapustin",
